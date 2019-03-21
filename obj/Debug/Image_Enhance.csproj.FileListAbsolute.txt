@@ -1,0 +1,15 @@
+L:\FuzzyLogic_ASSA\Image_Enhance\Image_Enhance\bin\Debug\Image_Enhance.exe
+L:\FuzzyLogic_ASSA\Image_Enhance\Image_Enhance\bin\Debug\Image_Enhance.pdb
+L:\FuzzyLogic_ASSA\Image_Enhance\Image_Enhance\obj\Debug\ResolveAssemblyReference.cache
+L:\FuzzyLogic_ASSA\Image_Enhance\Image_Enhance\obj\Debug\Image_Enhance.Properties.Resources.resources
+L:\FuzzyLogic_ASSA\Image_Enhance\Image_Enhance\obj\Debug\Image_Enhance.csproj.GenerateResource.Cache
+L:\FuzzyLogic_ASSA\Image_Enhance\Image_Enhance\obj\Debug\Image_Enhance.exe
+L:\FuzzyLogic_ASSA\Image_Enhance\Image_Enhance\obj\Debug\Image_Enhance.pdb
+I:\FuzzyLogic_ASSA\Image_Enhance\Image_Enhance\obj\Debug\Image_Enhance.exe
+I:\FuzzyLogic_ASSA\Image_Enhance\Image_Enhance\obj\Debug\Image_Enhance.pdb
+I:\FuzzyLogic_ASSA\Image_Enhance\Image_Enhance\bin\Debug\Image_Enhance.exe
+I:\FuzzyLogic_ASSA\Image_Enhance\Image_Enhance\bin\Debug\Image_Enhance.pdb
+I:\FuzzyLogic_ASSA\Image_Enhance\Image_Enhance\obj\Debug\ResolveAssemblyReference.cache
+I:\FuzzyLogic_ASSA\Image_Enhance\Image_Enhance\obj\Debug\Image_Enhance.Properties.Resources.resources
+I:\FuzzyLogic_ASSA\Image_Enhance\Image_Enhance\obj\Debug\Image_Enhance.csproj.GenerateResource.Cache
+I:\FuzzyLogic_ASSA\Image_Enhance\Image_Enhance\obj\Debug\Image_Enhance.Form1.resources
